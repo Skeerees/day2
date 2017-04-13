@@ -1,0 +1,14 @@
+.jumbotron{
+  margin: 0;
+  text-align: center;
+  border-top: 1px grey solid;
+  background-color: #f157ed;
+}
+.navbar{
+  margin: 0;
+  background-color: #fabada;
+  color: #000;
+}
+.wiggle{
+  width: 100vw
+}
